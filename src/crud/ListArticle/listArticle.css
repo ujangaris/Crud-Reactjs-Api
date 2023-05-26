@@ -1,0 +1,31 @@
+.title {
+  font-family: 'Oleo Script', cursive;
+  color: #686bb7;
+}
+.color {
+  color: #686bb7;
+  background-color: #fff;
+  border-color: #686bb7 !important;
+  border-radius: 5px;
+  padding: 7px;
+}
+.color:hover {
+  background-color: #686bb7;
+  color: #fff;
+  border: none;
+}
+.color-head {
+  color: #fff;
+  background-color: #686bb7 !important;
+}
+.page-item .active {
+  color: #fff;
+  background-color: #686bb7 !important;
+}
+
+.color-search {
+  color: #fff;
+  background-color: #686bb7 !important;
+  border-color: #686bb7 !important;
+  border-radius: 5px;
+}
